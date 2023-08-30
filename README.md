@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kathelyn</p>
+<p align="left">Meu nome é Kathelyn Farias</p>
 
 ###
 
@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C#, HTML, CSS<br>🎯 Goals: ...</p>
+<p align="left">📚 Atualmente aprendendo: C#, HTML, CSS</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens e ferramentas</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -37,7 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
