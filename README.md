@@ -1,22 +1,14 @@
-<h1 align="left">Hey 👋</h1>
-
-###
-
-<p align="left">Meu nome é Kathelyn Farias</p>
-
-###
-
 <h2 align="left"></h2>
 
 ###
 
-<p align="left">📚 Atualmente aprendendo: C#, HTML, CSS</p>
+<p align="left">👩‍💻📝 Aprendendo atualmente: JavaScript, React</p>
 
 ###
 
-<h2 align="left">Linguagens e ferramentas</h2>
+<h2 align="left">Linguagens e Ferramentas</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -37,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="50" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
+  <img height="80" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
 </div>
 
 ###
