@@ -3,7 +3,7 @@
 <p align="left">Curso técnico de Informática - Concluído</p>
 <p align="left">Curso técnico de Redes de Computadores - Concluído</p>
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
+<div style="display: flex; flex-direction: row;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/kathelyn-farias/)
 
