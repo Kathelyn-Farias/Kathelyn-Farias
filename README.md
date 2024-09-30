@@ -3,6 +3,10 @@
 <p align="left">Curso técnico de Informática - Concluído</p>
 <p align="left">Curso técnico de Redes de Computadores - Concluído</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/kathelyn-farias/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kathelyn-Farias)
+
 ###
 
 <p align="left">👩‍💻📝 Aprendendo atualmente: JavaScript, React</p>
