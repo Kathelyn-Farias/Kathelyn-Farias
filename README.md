@@ -1,7 +1,7 @@
 <h2 align="left">Kathelyn Farias</h2>
-<h3 align="left">Estudante de Análise e Desenolvimento de Sistemas</h3>
-<h3 align="left">Curso técnico de Informática - Concluído</h3>
-<h3 align="left">Curso técnico de Redes de Computadores - Concluído</h3>
+<p align="left">Estudante de Análise e Desenolvimento de Sistemas</p>
+<p align="left">Curso técnico de Informática - Concluído</p>
+<p align="left">Curso técnico de Redes de Computadores - Concluído</p>
 
 ###
 
