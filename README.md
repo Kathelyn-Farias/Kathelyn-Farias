@@ -99,18 +99,6 @@ Atualmente, busco continuar evoluindo na área de tecnologia, com foco em **supo
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kathelyn-Farias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathelyn-Farias&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
 Obrigada por visitar meu perfil! 🚀
 </p>
